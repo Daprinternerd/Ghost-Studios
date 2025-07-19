@@ -1,5 +1,5 @@
 # Ghost-Studios
-A complete YouTube studio
+A complete YouTube studio for showcasing my printer projects in a professional-looking studio.
 <br>
 <img width="1077" height="691" alt="Screenshot 2025-07-19 110004" src="https://github.com/user-attachments/assets/8f655319-05f3-489f-ad18-48dedebfdc32" />
 This is a 3d printed workshop/studio background complete with LEDs
